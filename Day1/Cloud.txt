@@ -1,0 +1,67 @@
+1. What is cloud computing?
+Ans. Cloud computing is the delivery of on-demand computing services from applications to storage and processing power
+typically over the internet and on pay-as-you-go basis.
+
+2. Advantages of cloud over dedicated servers?
+Ans. 1. Flexibility and Scalability
+With Cloud Server technology, you get incredible scalability as well as flexibility across all the platforms with 
+enhanced storage choices. You have the option to pick any of the cloud platforms whether it is public, private
+or hybrid according to your requirement.
+
+The most appreciated thing about Cloud is, whenever you think that your business requirements are now changing 
+you can easily reframe it automatically. It means you get flexibility along with scalability.
+You would not get privileges of such a kind with Dedicated Server.
+
+2. Enhanced Server Uptime
+Server uptime of any website is one of the biggest reasons which direct the performance of the website. 
+With Cloud Hosting, you get maximum server uptime and there is not a single risk of network failure.
+
+Because Cloud Server is the system of interconnected servers, therefore, at any point of time one server
+is not able to take any request then automatically one of the multiple servers will get active and rescue your data.Dedicated Server can handle the workload at a particular level. Beyond this level, you can see hardware failures and downtimes.
+
+On the other hand, dedicated servers can handle the workload at a particular level. Beyond this level, 
+you can see hardware failures and downtimes.
+
+3. More Security
+Cloud Server provides you full security so that you never worry about the loss of your valuable data. 
+All the time, your data is kept on the cloud that gives you a greater form of security. 
+Cloud server also ensures data safety with the help of customer identity management, storage diversification 
+and firewall backups.
+
+You do not get this kind of security check with Dedicated Servers
+
+4. Promote Group Collaboration
+Cloud Server allows you to access your network from all over the world. The benefit of this is that employees
+of a company can work on the same project from multiple locations. 
+This promotes fast and smart working along with flexibility in work.
+
+You cannot enjoy this facility with Dedicated Server.
+
+5. No Downtime
+Cloud Servers are fully backed up and moved in-between data centers. 
+This means that in case of a system failure or complete data center failures, you can continue your work 
+without any problem. You will not experience any downtime, even some of the web hosts are now offering 100% uptime.
+
+6. Compititive Edge
+With new players coming in the market, competition has become quite tough. 
+Therefore, Cloud Server is certainly your need of the day. 
+The reason being that cloud service providers give you the best technology and improved service. 
+Transferring to the cloud provides you the opportunity to go with the latest technology and have an 
+edge over your competitors.
+
+7. Cost Effectiveness
+From the financial viewpoint, a cloud server is much cheaper as compared to a dedicated server. 
+In Cloud, you are working on a virtual system. Therefore, you need not initiate capital expenditure for 
+the setup of hardware. You can choose your plan as per your need.
+
+Dedicated servers are quite more expensive as you have to pay for the services or resources that are provided to you.
+Also, in the event of any disaster, costs could further go up.
+
+8. Management
+One final benefit of choosing Cloud Server vs Dedicated Server is that Cloud Server is completely controlled and 
+managed by you only. Therefore, the entire responsibility of security, management and operating software is to be 
+taken care by you. There is no interference of any third party.Dedicated Server, entire management regarding server 
+is done by the service providers. So, you need not be worried about the management related concerns about the servers.
+
+In a dedicated server, the entire management regarding server is done by the service providers. 
+You need not be worried about any management related concerns
